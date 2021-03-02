@@ -1,0 +1,44 @@
+[
+    {
+        "No": 1,
+        "Name": "A51",
+        "Description": "This is mobile phone by samsung",
+        "Price": "30,000",
+        "Category": "Smart Phone"
+    },
+    {
+        "No": 2,
+        "Name": "Probook G4",
+        "Description": "This is laptop by HP ",
+        "Price": "50,000",
+        "Category": "PC"
+    },
+    {
+        "No": 3,
+        "Name": "Iphone 12",
+        "Description": "This is phone by Apple",
+        "Price": "100,000",
+        "Category": "Smart Phone"
+    },
+    {
+        "No": 4,
+        "Name": "Macbook Pro",
+        "Description": "This is a laptop by Apple ",
+        "Price": "135,000",
+        "Category": "PC"
+    },
+    {
+        "No": 5,
+        "Name": "Macbook Air",
+        "Description": "This is a laptop by Apple",
+        "Price": "100,000",
+        "Category": "PC"
+    },
+    {
+        "No": 6,
+        "Name": "ChromeBook",
+        "Description": "This is a laptop by Samsung",
+        "Price": "100,000",
+        "Category": "PC"
+    }
+]
