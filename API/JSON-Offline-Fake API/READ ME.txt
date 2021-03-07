@@ -1,0 +1,7 @@
+
+
+1. npm install -g json-server
+
+2. To run json-server, inside this folder run this command: json-server --watch db.json
+
+3. First run json server then reactapp
